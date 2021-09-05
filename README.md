@@ -1,4 +1,4 @@
-#CtrgFormatter
+# CtrgFormatter
 
 ### つかいかた
 - ctrgformatter.bat に bmsファイルをD&D
